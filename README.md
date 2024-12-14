@@ -7,4 +7,6 @@ Chapter 02; Basic Circuit Analysis [Part 01](Linear-Circuits-Notes/Chapter_02_Ba
 
 Chapter 03: [Circuit Analysis Techniques](Linear-Circuits-Notes/Chapter_03_Circuit_Analysis_Techniques_Linear_Circuits_Notes.pdf)
 
+Chapter 04: [Active Circuits](Linear-Circuits-Notes/Chapter_04_Active_Circuits_Linear_Circuits_Notes.pdf)
+
 Chapter 16: AC Power Systems Notes [Part 01](Linear-Circuits-Notes/Chapter_16_AC_Power_Systems_Notes_part_01.pdf)
