@@ -9,4 +9,6 @@ Chapter 03: [Circuit Analysis Techniques](Linear-Circuits-Notes/Chapter_03_Circu
 
 Chapter 04: [Active Circuits](Linear-Circuits-Notes/Chapter_04_Active_Circuits_Linear_Circuits_Notes.pdf)
 
+Chapter 05: [Signal Waveforms](Linear-Circuits-Notes/Chapter_05_Signal_Wavefroms_Linear_Circuits_Notes.pdf)
+
 Chapter 16: AC Power Systems Notes [Part 01](Linear-Circuits-Notes/Chapter_16_AC_Power_Systems_Notes_part_01.pdf)
