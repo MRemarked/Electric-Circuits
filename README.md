@@ -11,4 +11,6 @@ Chapter 04: [Active Circuits](Linear-Circuits-Notes/Chapter_04_Active_Circuits_L
 
 Chapter 05: [Signal Waveforms](Linear-Circuits-Notes/Chapter_05_Signal_Wavefroms_Linear_Circuits_Notes.pdf)
 
+Chapter 06: [Capacitance and Inductance](Linear-Circuits-Notes/Chapter_06_Capacitance_and_Inductance_Linear_Circuits_Notes.pdf)
+
 Chapter 16: AC Power Systems Notes [Part 01](Linear-Circuits-Notes/Chapter_16_AC_Power_Systems_Notes_part_01.pdf)
